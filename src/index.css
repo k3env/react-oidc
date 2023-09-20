@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Play&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+@import "/node_modules/@fortawesome/fontawesome-free/css/all.min.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-play {
+  font-family: "Play", sans-serif;
+}
+
+.font-nunito {
+  font-family: "Nunito", sans-serif;
+}
